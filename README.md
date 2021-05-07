@@ -1,4 +1,4 @@
-![Local Library](src/readme/readme-header.png "Local Library")
+![Local Library](/src/readme/readme-header.png "Local Library")
 
 #
 # Local Library
